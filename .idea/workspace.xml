@@ -1,0 +1,1116 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="24e2cd8c-3dd7-450e-95bc-611c54c5b00c" name="Default" comment="">
+      <change afterPath="$PROJECT_DIR$/.idea/encodings.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/uiDesigner.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/README.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/abstractfactory/abstractfactory.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/abstractfactory/src/abstarctfactory/Article.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/abstractfactory/src/abstarctfactory/CourseFactory.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/abstractfactory/src/abstarctfactory/JavaArticle.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/abstractfactory/src/abstarctfactory/JavaCourseFactory.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/abstractfactory/src/abstarctfactory/JavaVideo.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/abstractfactory/src/abstarctfactory/PythonArticle.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/abstractfactory/src/abstarctfactory/PythonCourseFactory.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/abstractfactory/src/abstarctfactory/PythonVideo.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/abstractfactory/src/abstarctfactory/Test.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/abstractfactory/src/abstarctfactory/Video.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/asd_na" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/desingPattern.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/abstractfactory/abstarctfactory/Article.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/abstractfactory/abstarctfactory/CourseFactory.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/abstractfactory/abstarctfactory/JavaArticle.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/abstractfactory/abstarctfactory/JavaCourseFactory.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/abstractfactory/abstarctfactory/JavaVideo.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/abstractfactory/abstarctfactory/PythonArticle.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/abstractfactory/abstarctfactory/PythonCourseFactory.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/abstractfactory/abstarctfactory/PythonVideo.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/abstractfactory/abstarctfactory/Test.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/abstractfactory/abstarctfactory/Video.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/desingPattern/pattern/creational/builder/Coach.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/desingPattern/pattern/creational/builder/Course.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/desingPattern/pattern/creational/builder/CourseActualBuilder.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/desingPattern/pattern/creational/builder/CourseBuilder.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/desingPattern/pattern/creational/builder/Test.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/desingPattern/pattern/creational/builder/v2/Coach.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/desingPattern/pattern/creational/builder/v2/Course$CourseBuilder.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/desingPattern/pattern/creational/builder/v2/Course.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/desingPattern/pattern/creational/prototype/Mail.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/desingPattern/pattern/creational/prototype/MailUtil.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/desingPattern/pattern/creational/prototype/Test.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/desingPattern/pattern/creational/singleton/ContainerSingleton.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/desingPattern/pattern/creational/singleton/DoubleCheckSingleton.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/desingPattern/pattern/creational/singleton/EnumSingleton$1.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/desingPattern/pattern/creational/singleton/EnumSingleton.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/desingPattern/pattern/creational/singleton/HungrySingleton.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/desingPattern/pattern/creational/singleton/LazySingleton.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/desingPattern/pattern/creational/singleton/StaticInnerClassSingleton$1.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/desingPattern/pattern/creational/singleton/StaticInnerClassSingleton$innerClass.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/desingPattern/pattern/creational/singleton/StaticInnerClassSingleton.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/desingPattern/pattern/creational/singleton/T.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/desingPattern/pattern/creational/singleton/Test.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/desingPattern/pattern/creational/singleton/ThreadLocalSingleton$1.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/desingPattern/pattern/creational/singleton/ThreadLocalSingleton.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/desingPattern/pattern/structural/adapter/AC220.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/desingPattern/pattern/structural/adapter/DC5.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/desingPattern/pattern/structural/adapter/PowerAdapter.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/desingPattern/pattern/structural/adapter/Test.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/desingPattern/pattern/structural/adapter/classadapter/Adaptee.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/desingPattern/pattern/structural/adapter/classadapter/Adapter.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/desingPattern/pattern/structural/adapter/classadapter/ConcreteTarget.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/desingPattern/pattern/structural/adapter/classadapter/Target.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/desingPattern/pattern/structural/adapter/classadapter/Test.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/desingPattern/pattern/structural/adapter/objectadapter/Adaptee.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/desingPattern/pattern/structural/adapter/objectadapter/Adapter.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/desingPattern/pattern/structural/adapter/objectadapter/ConcreteTarget.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/desingPattern/pattern/structural/adapter/objectadapter/Target.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/desingPattern/pattern/structural/adapter/objectadapter/Test.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/desingPattern/pattern/structural/decorator/v1/Battercake.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/desingPattern/pattern/structural/decorator/v1/BattercakeWithEgg.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/desingPattern/pattern/structural/decorator/v1/BattercakeWithEggSausage.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/desingPattern/pattern/structural/decorator/v1/Test.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/desingPattern/pattern/structural/decorator/v2/ABattercake.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/desingPattern/pattern/structural/decorator/v2/AbstractDecorator.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/desingPattern/pattern/structural/decorator/v2/Battercake.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/desingPattern/pattern/structural/decorator/v2/EggDecorator.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/desingPattern/pattern/structural/decorator/v2/SausageDecorator.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/desingPattern/pattern/structural/decorator/v2/Test.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/desingPattern/pattern/structural/facade/GiftExchangeService.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/desingPattern/pattern/structural/facade/PointsGift.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/desingPattern/pattern/structural/facade/PointsPaymentService.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/desingPattern/pattern/structural/facade/QualifyService.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/desingPattern/pattern/structural/facade/ShippingService.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/desingPattern/pattern/structural/facade/Test.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/pattern/creational/builder/Coach.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/pattern/creational/builder/Course.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/pattern/creational/builder/CourseActualBuilder.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/pattern/creational/builder/CourseBuilder.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/pattern/creational/builder/Test.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/pattern/creational/builder/v2/Coach.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/pattern/creational/builder/v2/Course.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/pattern/creational/prototype/Mail.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/pattern/creational/prototype/MailUtil.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/pattern/creational/prototype/Test.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/pattern/creational/singleton/ContainerSingleton.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/pattern/creational/singleton/DoubleCheckSingleton.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/pattern/creational/singleton/EnumSingleton.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/pattern/creational/singleton/HungrySingleton.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/pattern/creational/singleton/LazySingleton.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/pattern/creational/singleton/StaticInnerClassSingleton.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/pattern/creational/singleton/T.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/pattern/creational/singleton/Test.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/pattern/creational/singleton/ThreadLocalSingleton.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/pattern/structural/adapter/AC220.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/pattern/structural/adapter/DC5.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/pattern/structural/adapter/PowerAdapter.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/pattern/structural/adapter/Test.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/pattern/structural/adapter/classadapter/Adaptee.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/pattern/structural/adapter/classadapter/Adapter.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/pattern/structural/adapter/classadapter/ConcreteTarget.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/pattern/structural/adapter/classadapter/Target.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/pattern/structural/adapter/classadapter/Test.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/pattern/structural/adapter/objectadapter/Adaptee.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/pattern/structural/adapter/objectadapter/Adapter.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/pattern/structural/adapter/objectadapter/ConcreteTarget.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/pattern/structural/adapter/objectadapter/Target.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/pattern/structural/adapter/objectadapter/Test.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/pattern/structural/decorator/v1/Battercake.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/pattern/structural/decorator/v1/BattercakeWithEgg.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/pattern/structural/decorator/v1/BattercakeWithEggSausage.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/pattern/structural/decorator/v1/Test.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/pattern/structural/decorator/v2/ABattercake.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/pattern/structural/decorator/v2/AbstractDecorator.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/pattern/structural/decorator/v2/Battercake.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/pattern/structural/decorator/v2/EggDecorator.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/pattern/structural/decorator/v2/SausageDecorator.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/pattern/structural/decorator/v2/Test.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/pattern/structural/facade/GiftExchangeService.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/pattern/structural/facade/PointsGift.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/pattern/structural/facade/PointsPaymentService.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/pattern/structural/facade/QualifyService.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/pattern/structural/facade/ShippingService.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/pattern/structural/facade/Test.java" afterDir="false" />
+    </list>
+    <ignored path="$PROJECT_DIR$/out/" />
+    <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
+    <option name="TRACKING_ENABLED" value="true" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileEditorManager">
+    <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
+      <file leaf-file-name="DoubleCheckSingleton.java" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/pattern/creational/singleton/DoubleCheckSingleton.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="418">
+              <caret line="19" column="36" selection-start-line="19" selection-start-column="36" selection-end-line="19" selection-end-column="36" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="T.java" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/pattern/creational/singleton/T.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="176">
+              <caret line="8" column="23" selection-start-line="8" selection-start-column="23" selection-end-line="8" selection-end-column="23" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="Test.java" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/pattern/creational/singleton/Test.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="337">
+              <caret line="77" column="40" lean-forward="true" selection-start-line="77" selection-start-column="40" selection-end-line="77" selection-end-column="40" />
+              <folding>
+                <element signature="imports" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="README.md" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/README.md">
+          <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
+            <state split_layout="SPLIT">
+              <first_editor relative-caret-position="22">
+                <caret line="1" column="13" lean-forward="true" selection-start-line="1" selection-start-column="13" selection-end-line="1" selection-end-column="13" />
+              </first_editor>
+              <second_editor />
+            </state>
+          </provider>
+        </entry>
+      </file>
+    </leaf>
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Interface" />
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="FindInProjectRecents">
+    <findStrings>
+      <find>readres</find>
+    </findStrings>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="IdeDocumentHistory">
+    <option name="CHANGED_PATHS">
+      <list>
+        <option value="$PROJECT_DIR$/src/pattern/creational/singleton/HungerSingleton.java" />
+        <option value="$PROJECT_DIR$/src/pattern/creational/singleton/DoubleCheckSingleton.java" />
+        <option value="$PROJECT_DIR$/src/pattern/creational/singleton/HungrySingleton.java" />
+        <option value="$PROJECT_DIR$/src/pattern/creational/singleton/StaticInnerClassSingleton.java" />
+        <option value="$PROJECT_DIR$/src/pattern/creational/singleton/LazySingleton.java" />
+        <option value="$PROJECT_DIR$/src/pattern/creational/singleton/ContainerSingleton.java" />
+        <option value="$PROJECT_DIR$/src/pattern/creational/singleton/ThreadLocalSingleton.java" />
+        <option value="$PROJECT_DIR$/src/pattern/creational/singleton/T.java" />
+        <option value="$PROJECT_DIR$/src/pattern/creational/singleton/EnumSingleton.java" />
+        <option value="$PROJECT_DIR$/src/pattern/creational/singleton/Test.java" />
+        <option value="$PROJECT_DIR$/src/pattern/creational/prototype/MailUtil.java" />
+        <option value="$PROJECT_DIR$/src/pattern/creational/prototype/Test.java" />
+        <option value="$PROJECT_DIR$/src/pattern/creational/prototype/Mail.java" />
+        <option value="$PROJECT_DIR$/src/pattern/structural/facade.java" />
+        <option value="$PROJECT_DIR$/src/pattern/structural/facade/facade.java" />
+        <option value="$PROJECT_DIR$/src/pattern/structural/facade/PointGift.java" />
+        <option value="$PROJECT_DIR$/src/pattern/structural/facade/PointsExchangeService.java" />
+        <option value="$PROJECT_DIR$/src/pattern/structural/facade/paimian.java" />
+        <option value="$PROJECT_DIR$/src/pattern/structural/facade/PointsPaymentService2.java" />
+        <option value="$PROJECT_DIR$/src/pattern/structural/facade/PointsPaymentService.java" />
+        <option value="$PROJECT_DIR$/src/pattern/structural/facade/QualifyService.java" />
+        <option value="$PROJECT_DIR$/src/pattern/structural/facade/ShippingService.java" />
+        <option value="$PROJECT_DIR$/src/pattern/structural/facade/Test.java" />
+        <option value="$PROJECT_DIR$/src/pattern/structural/facade/GiftExchangeService.java" />
+        <option value="$PROJECT_DIR$/src/pattern/structural/decorator/v1/BattercakeWithEgg.java" />
+        <option value="$PROJECT_DIR$/src/pattern/structural/decorator/v1/Battercake.java" />
+        <option value="$PROJECT_DIR$/src/pattern/structural/decorator/v1/Test.java" />
+        <option value="$PROJECT_DIR$/src/pattern/structural/decorator/v1/BattercakeWithEggSausage.java" />
+        <option value="$PROJECT_DIR$/src/pattern/structural/decorator/v2/ABattercake.java" />
+        <option value="$PROJECT_DIR$/src/pattern/structural/decorator/v2/AbstractDecorator.java" />
+        <option value="$PROJECT_DIR$/src/pattern/structural/decorator/v2/SausageDecorator.java" />
+        <option value="$PROJECT_DIR$/src/pattern/structural/decorator/v2/EggDecorator.java" />
+        <option value="$PROJECT_DIR$/src/pattern/structural/decorator/v2/Battercake.java" />
+        <option value="$PROJECT_DIR$/src/pattern/structural/adapter/classadapter.java" />
+        <option value="$PROJECT_DIR$/src/pattern/structural/adapter/classadapter/classadapter.java" />
+        <option value="$PROJECT_DIR$/src/pattern/structural/adapter/classadapter/Target.java" />
+        <option value="$PROJECT_DIR$/src/pattern/structural/adapter/classadapter/Adaptee.java" />
+        <option value="$PROJECT_DIR$/src/pattern/structural/adapter/classadapter/Adapter.java" />
+        <option value="$PROJECT_DIR$/src/pattern/structural/adapter/classadapter/ConcreteTarget.java" />
+        <option value="$PROJECT_DIR$/src/pattern/structural/adapter/classadapter/Test.java" />
+        <option value="$PROJECT_DIR$/src/pattern/structural/adapter/objectadapter/Adaptee.java" />
+        <option value="$PROJECT_DIR$/src/pattern/structural/adapter/objectadapter/Target.java" />
+        <option value="$PROJECT_DIR$/src/pattern/structural/adapter/objectadapter/ConcreteTarget.java" />
+        <option value="$PROJECT_DIR$/src/pattern/structural/adapter/objectadapter/Adapter.java" />
+        <option value="$PROJECT_DIR$/src/pattern/structural/adapter/objectadapter/Test.java" />
+        <option value="$PROJECT_DIR$/src/pattern/structural/adapter/DC5.java" />
+        <option value="$PROJECT_DIR$/src/pattern/structural/adapter/Test.java" />
+        <option value="$PROJECT_DIR$/src/pattern/structural/adapter/AC220.java" />
+        <option value="$PROJECT_DIR$/src/pattern/structural/adapter/PowerAdapter.java" />
+        <option value="$PROJECT_DIR$/src/pattern/structural/decorator/v2/Test.java" />
+        <option value="$PROJECT_DIR$/README.md" />
+      </list>
+    </option>
+  </component>
+  <component name="JsBuildToolGruntFileManager" detection-done="true" sorting="DEFINITION_ORDER" />
+  <component name="JsBuildToolPackageJson" detection-done="true" sorting="DEFINITION_ORDER" />
+  <component name="JsGulpfileManager">
+    <detection-done>true</detection-done>
+    <sorting>DEFINITION_ORDER</sorting>
+  </component>
+  <component name="NodePackageJsonFileManager">
+    <packageJsonPaths />
+  </component>
+  <component name="ProjectFrameBounds" extendedState="6">
+    <option name="x" value="260" />
+    <option name="y" value="20" />
+    <option name="width" value="1400" />
+    <option name="height" value="1000" />
+  </component>
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectView">
+    <navigator proportions="" version="1">
+      <autoscrollFromSource ProjectPane="true" />
+      <foldersAlwaysOnTop value="true" />
+    </navigator>
+    <panes>
+      <pane id="PackagesPane" />
+      <pane id="AndroidView">
+        <subPane>
+          <expand>
+            <path>
+              <item name="desingPattern" type="1abcf292:AndroidViewProjectNode" />
+              <item name="desingPattern" type="e9137016:NonAndroidModuleNode" />
+            </path>
+            <path>
+              <item name="desingPattern" type="1abcf292:AndroidViewProjectNode" />
+              <item name="desingPattern" type="e9137016:NonAndroidModuleNode" />
+              <item name="java" type="f7eae187:NonAndroidSourceTypeNode" />
+            </path>
+            <path>
+              <item name="desingPattern" type="1abcf292:AndroidViewProjectNode" />
+              <item name="desingPattern" type="e9137016:NonAndroidModuleNode" />
+              <item name="java" type="f7eae187:NonAndroidSourceTypeNode" />
+              <item name="creational" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="desingPattern" type="1abcf292:AndroidViewProjectNode" />
+              <item name="desingPattern" type="e9137016:NonAndroidModuleNode" />
+              <item name="java" type="f7eae187:NonAndroidSourceTypeNode" />
+              <item name="creational" type="462c0819:PsiDirectoryNode" />
+              <item name="prototype" type="462c0819:PsiDirectoryNode" />
+            </path>
+          </expand>
+          <select />
+        </subPane>
+      </pane>
+      <pane id="Scope" />
+      <pane id="ProjectPane">
+        <subPane>
+          <expand>
+            <path>
+              <item name="desingPattern" type="b2602c69:ProjectViewProjectNode" />
+              <item name="desingPattern" type="462c0819:PsiDirectoryNode" />
+            </path>
+          </expand>
+          <select />
+        </subPane>
+      </pane>
+    </panes>
+  </component>
+  <component name="PropertiesComponent">
+    <property name="SearchEverywhereHistoryKey" value="clone&#9;PSI&#9;JAVA://java.lang.Cloneable&#10;deskto&#9;PSI&#9;JAVA://java.awt.Desktop&#10;runt&#9;PSI&#9;JAVA://java.lang.Runtime" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="aspect.path.notification.shown" value="true" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
+    <property name="nodejs_npm_path_reset_for_default_project" value="true" />
+    <property name="project.structure.last.edited" value="Project" />
+    <property name="project.structure.proportion" value="0.0" />
+    <property name="project.structure.side.proportion" value="0.0" />
+    <property name="settings.editor.selected.configurable" value="reference.settings.ide.settings.uml" />
+  </component>
+  <component name="RecentsManager">
+    <key name="CopyClassDialog.RECENTS_KEY">
+      <recent name="pattern.structural.adapter.objectadapter" />
+    </key>
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="C:\IDEA_workspace_2018.1.5\desingPattern" />
+    </key>
+  </component>
+  <component name="RunDashboard">
+    <option name="ruleStates">
+      <list>
+        <RuleState>
+          <option name="name" value="ConfigurationTypeDashboardGroupingRule" />
+        </RuleState>
+        <RuleState>
+          <option name="name" value="StatusDashboardGroupingRule" />
+        </RuleState>
+      </list>
+    </option>
+  </component>
+  <component name="RunManager" selected="Application.Test (2)">
+    <configuration name="Test (1)" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="pattern.structural.adapter.classadapter.Test" />
+      <module name="desingPattern" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="pattern.structural.adapter.classadapter.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+    </configuration>
+    <configuration name="Test (2)" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="pattern.structural.adapter.Test" />
+      <module name="desingPattern" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="pattern.structural.adapter.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+    </configuration>
+    <configuration name="Test (4)" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="pattern.structural.decorator.v1.Test" />
+      <module name="desingPattern" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="pattern.structural.decorator.v1.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+    </configuration>
+    <configuration name="Test (5)" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="pattern.structural.adapter.objectadapter.Test" />
+      <module name="desingPattern" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="pattern.structural.adapter.objectadapter.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+    </configuration>
+    <configuration name="Test" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="pattern.structural.decorator.v2.Test" />
+      <module name="desingPattern" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="pattern.structural.decorator.v2.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+    </configuration>
+    <configuration name="Test" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="pattern.creational.singleton.Test" />
+      <module name="desingPattern" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="pattern.creational.singleton.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+    </configuration>
+    <configuration default="true" type="Application" factoryName="Application">
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+    </configuration>
+    <configuration default="true" type="JUnit" factoryName="JUnit">
+      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
+      <option name="ALTERNATIVE_JRE_PATH" />
+      <option name="PACKAGE_NAME" />
+      <option name="MAIN_CLASS_NAME" />
+      <option name="METHOD_NAME" />
+      <option name="TEST_OBJECT" value="class" />
+      <option name="VM_PARAMETERS" value="-ea" />
+      <option name="PARAMETERS" />
+      <option name="WORKING_DIRECTORY" value="%MODULE_WORKING_DIR%" />
+      <option name="PASS_PARENT_ENVS" value="true" />
+      <option name="TEST_SEARCH_SCOPE">
+        <value defaultName="singleModule" />
+      </option>
+      <patterns />
+    </configuration>
+    <configuration default="true" type="TestNG" factoryName="TestNG">
+      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
+      <option name="ALTERNATIVE_JRE_PATH" />
+      <option name="SUITE_NAME" />
+      <option name="PACKAGE_NAME" />
+      <option name="MAIN_CLASS_NAME" />
+      <option name="METHOD_NAME" />
+      <option name="GROUP_NAME" />
+      <option name="TEST_OBJECT" value="CLASS" />
+      <option name="VM_PARAMETERS" value="-ea" />
+      <option name="PARAMETERS" />
+      <option name="WORKING_DIRECTORY" value="%MODULE_WORKING_DIR%" />
+      <option name="OUTPUT_DIRECTORY" />
+      <option name="PASS_PARENT_ENVS" value="true" />
+      <option name="TEST_SEARCH_SCOPE">
+        <value defaultName="singleModule" />
+      </option>
+      <option name="USE_DEFAULT_REPORTERS" value="false" />
+      <option name="PROPERTIES_FILE" />
+      <properties />
+      <listeners />
+    </configuration>
+    <list>
+      <item itemvalue="Application.Test (4)" />
+      <item itemvalue="Application.Test" />
+      <item itemvalue="Application.Test (1)" />
+      <item itemvalue="Application.Test (5)" />
+      <item itemvalue="Application.Test (2)" />
+    </list>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Application.Test (2)" />
+        <item itemvalue="Application.Test (5)" />
+        <item itemvalue="Application.Test (1)" />
+        <item itemvalue="Application.Test" />
+        <item itemvalue="Application.Test (4)" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="24e2cd8c-3dd7-450e-95bc-611c54c5b00c" name="Default" comment="" />
+      <created>1577108280195</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1577108280195</updated>
+      <workItem from="1577108283930" duration="3825000" />
+      <workItem from="1577193212165" duration="853000" />
+      <workItem from="1577236069171" duration="32000" />
+      <workItem from="1577282146096" duration="2730000" />
+      <workItem from="1577321919199" duration="14000" />
+      <workItem from="1577371287198" duration="2975000" />
+      <workItem from="1577717990476" duration="2532000" />
+      <workItem from="1578105030027" duration="1034000" />
+      <workItem from="1578142864853" duration="9113000" />
+      <workItem from="1578208750728" duration="825000" />
+      <workItem from="1578272884525" duration="286000" />
+      <workItem from="1578399530853" duration="6302000" />
+      <workItem from="1578406935337" duration="260000" />
+      <workItem from="1578446194411" duration="14105000" />
+      <workItem from="1578530442638" duration="6598000" />
+      <workItem from="1578617068093" duration="608000" />
+      <workItem from="1578646992440" duration="602000" />
+      <workItem from="1578805190983" duration="599000" />
+      <workItem from="1578879997314" duration="3205000" />
+      <workItem from="1579174636628" duration="599000" />
+      <workItem from="1581040978083" duration="611000" />
+      <workItem from="1583482974027" duration="663000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TimeTrackingManager">
+    <option name="totallyTimeSpent" value="58371000" />
+  </component>
+  <component name="ToolWindowManager">
+    <frame x="-8" y="-8" width="1936" height="1056" extended-state="6" />
+    <layout>
+      <window_info anchor="right" id="Palette" order="3" />
+      <window_info anchor="bottom" id="TODO" order="6" />
+      <window_info anchor="right" id="Palette&#9;" order="8" />
+      <window_info id="Image Layers" order="2" />
+      <window_info anchor="right" id="Capture Analysis" order="4" />
+      <window_info anchor="bottom" id="Event Log" order="9" side_tool="true" />
+      <window_info anchor="right" id="Maven Projects" order="7" />
+      <window_info anchor="bottom" id="Database Changes" order="7" show_stripe_button="false" />
+      <window_info anchor="bottom" id="Run" order="2" weight="0.2818792" />
+      <window_info anchor="bottom" id="Version Control" order="10" />
+      <window_info active="true" anchor="bottom" id="Terminal" order="8" visible="true" weight="0.65957445" />
+      <window_info id="Capture Tool" order="6" />
+      <window_info id="Designer" order="3" />
+      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.22814499" />
+      <window_info anchor="right" id="Database" order="6" />
+      <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
+      <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
+      <window_info id="UI Designer" order="4" />
+      <window_info anchor="right" id="Theme Preview" order="5" />
+      <window_info anchor="bottom" id="Debug" order="3" weight="0.27740493" />
+      <window_info id="Favorites" order="5" side_tool="true" />
+      <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
+      <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
+      <window_info anchor="bottom" id="Messages" order="11" weight="0.32997763" />
+      <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
+      <window_info anchor="bottom" id="Message" order="0" />
+      <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
+      <window_info anchor="bottom" id="Find" order="1" weight="0.22259508" />
+    </layout>
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+  <component name="VcsContentAnnotationSettings">
+    <option name="myLimit" value="2678400000" />
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <breakpoints-defaults>
+        <breakpoint suspend="THREAD" type="java-line" />
+      </breakpoints-defaults>
+      <breakpoints-dialog>
+        <breakpoints-dialog />
+      </breakpoints-dialog>
+      <option name="time" value="16" />
+    </breakpoint-manager>
+  </component>
+  <component name="editorHistoryManager">
+    <entry file="jar://C:/Program Files (x86)/Java/jdk1.8.0_131/src.zip!/java/awt/Desktop.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="348">
+          <caret line="151" column="36" lean-forward="true" selection-start-line="151" selection-start-column="36" selection-end-line="151" selection-end-column="36" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/pattern/creational/builder/Course.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-274">
+          <caret line="31" selection-start-line="31" selection-end-line="31" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/pattern/creational/builder/CourseActualBuilder.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="814">
+          <caret line="37" selection-start-line="37" selection-end-line="37" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/pattern/creational/builder/CourseBuilder.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="176">
+          <caret line="8" column="25" selection-start-line="8" selection-start-column="25" selection-end-line="8" selection-end-column="25" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/pattern/creational/builder/Test.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="176">
+          <caret line="8" column="61" selection-start-line="8" selection-start-column="42" selection-end-line="8" selection-end-column="61" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/pattern/creational/builder/Coach.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="198">
+          <caret line="9" column="63" lean-forward="true" selection-start-line="9" selection-start-column="63" selection-end-line="9" selection-end-column="63" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/pattern/creational/builder/v2/Course.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="638">
+          <caret line="32" column="39" lean-forward="true" selection-start-line="32" selection-start-column="39" selection-end-line="32" selection-end-column="39" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/pattern/creational/builder/v2/Coach.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="198">
+          <caret line="9" column="48" selection-start-line="9" selection-start-column="35" selection-end-line="9" selection-end-column="48" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://C:/Program Files (x86)/Java/jdk1.8.0_131/src.zip!/java/text/MessageFormat.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="333">
+          <caret line="840" column="38" lean-forward="true" selection-start-line="840" selection-start-column="38" selection-end-line="840" selection-end-column="38" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://C:/Program Files (x86)/Java/jdk1.8.0_131/src.zip!/java/lang/Cloneable.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="660">
+          <caret line="53" column="1" lean-forward="true" selection-start-line="53" selection-start-column="1" selection-end-line="53" selection-end-column="1" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="uml://JAVA/pattern.structural.facade.paimian">
+      <provider selected="true" editor-type-id="UmlEditorProvider">
+        <state>
+          <ID>JAVA</ID>
+          <OriginalElement>pattern.structural.facade.paimian</OriginalElement>
+          <nodes>
+            <node x="" y="">pattern.structural.facade.PointsPaymentService</node>
+            <node x="" y="">pattern.structural.facade.GiftExchangeService</node>
+            <node x="" y="">pattern.structural.facade.PointsExchangeService</node>
+            <node x="" y="">pattern.structural.facade.ShippingService</node>
+            <node x="" y="">pattern.structural.facade.PointGift</node>
+            <node x="" y="">pattern.structural.facade.Test</node>
+          </nodes>
+          <notes />
+          <edges />
+          <settings layout="Hierarchic Group" zoom="1.0" x="344.0" y="165.0" />
+          <SelectedNodes />
+          <Categories>
+            <Category>Fields</Category>
+            <Category>Constructors</Category>
+            <Category>Methods</Category>
+            <Category>Properties</Category>
+            <Category>Inner Classes</Category>
+          </Categories>
+          <SCOPE>All</SCOPE>
+          <VISIBILITY>private</VISIBILITY>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/pattern/structural/facade/ShippingService.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="220">
+          <caret line="10" column="26" lean-forward="true" selection-start-line="10" selection-start-column="26" selection-end-line="10" selection-end-column="26" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/pattern/structural/facade/QualifyService.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="154">
+          <caret line="7" column="30" selection-start-line="7" selection-start-column="30" selection-end-line="7" selection-end-column="30" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="uml://JAVA/pattern.structural.facade.GiftExchangeService">
+      <provider selected="true" editor-type-id="UmlEditorProvider">
+        <state>
+          <ID>JAVA</ID>
+          <OriginalElement>pattern.structural.facade.GiftExchangeService</OriginalElement>
+          <nodes>
+            <node x="" y="">pattern.structural.facade.PointsPaymentService</node>
+            <node x="" y="">pattern.structural.facade.GiftExchangeService</node>
+            <node x="" y="">pattern.structural.facade.QualifyService</node>
+            <node x="" y="">pattern.structural.facade.ShippingService</node>
+            <node x="" y="">pattern.structural.facade.PointsGift</node>
+            <node x="" y="">pattern.structural.facade.Test</node>
+          </nodes>
+          <notes />
+          <edges />
+          <settings layout="Hierarchic Group" zoom="1.0" x="348.0" y="165.0" />
+          <SelectedNodes />
+          <Categories>
+            <Category>Fields</Category>
+            <Category>Constructors</Category>
+            <Category>Methods</Category>
+            <Category>Properties</Category>
+            <Category>Inner Classes</Category>
+          </Categories>
+          <SCOPE>All</SCOPE>
+          <VISIBILITY>private</VISIBILITY>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/pattern/structural/decorator/v1/BattercakeWithEgg.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="308">
+          <caret line="14" column="35" selection-start-line="14" selection-start-column="35" selection-end-line="14" selection-end-column="35" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/pattern/structural/decorator/v1/BattercakeWithEggSausage.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="198">
+          <caret line="9" column="36" selection-start-line="9" selection-start-column="36" selection-end-line="9" selection-end-column="36" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/pattern/structural/decorator/v1/Battercake.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="286">
+          <caret line="13" column="5" lean-forward="true" selection-start-line="7" selection-start-column="4" selection-end-line="13" selection-end-column="5" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/pattern/structural/decorator/v1/Test.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="330">
+          <caret line="15" column="110" lean-forward="true" selection-start-line="15" selection-start-column="8" selection-end-line="15" selection-end-column="110" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/pattern/structural/decorator/v2/Battercake.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="308">
+          <caret line="14" column="16" selection-start-line="14" selection-start-column="16" selection-end-line="14" selection-end-column="16" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/pattern/structural/decorator/v2/EggDecorator.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="220">
+          <caret line="10" lean-forward="true" selection-start-line="10" selection-end-line="10" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/pattern/structural/decorator/v2/SausageDecorator.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="286">
+          <caret line="13" selection-start-line="13" selection-end-line="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/pattern/structural/decorator/v2/ABattercake.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="154">
+          <caret line="7" column="30" selection-start-line="7" selection-start-column="30" selection-end-line="7" selection-end-column="30" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/pattern/structural/decorator/v2/AbstractDecorator.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="330">
+          <caret line="15" column="37" selection-start-line="15" selection-start-column="37" selection-end-line="15" selection-end-column="37" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/pattern/creational/prototype/Mail.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="858">
+          <caret line="53" column="48" selection-start-line="53" selection-start-column="48" selection-end-line="53" selection-end-column="48" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/pattern/creational/prototype/MailUtil.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="352">
+          <caret line="16" selection-start-line="16" selection-end-line="16" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/pattern/creational/prototype/Test.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="220">
+          <caret line="10" column="40" selection-start-line="10" selection-start-column="40" selection-end-line="10" selection-end-column="40" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/pattern/structural/facade/GiftExchangeService.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="242">
+          <caret line="11" column="24" lean-forward="true" selection-start-line="11" selection-start-column="24" selection-end-line="11" selection-end-column="24" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/pattern/structural/facade/PointsGift.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="242">
+          <caret line="13" column="29" selection-start-line="13" selection-start-column="29" selection-end-line="13" selection-end-column="29" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/pattern/structural/facade/PointsPaymentService.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="154">
+          <caret line="7" column="22" selection-start-line="7" selection-start-column="22" selection-end-line="7" selection-end-column="22" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/pattern/structural/facade/Test.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="198">
+          <caret line="9" column="76" lean-forward="true" selection-start-line="9" selection-start-column="76" selection-end-line="9" selection-end-column="76" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/pattern/structural/adapter/classadapter/Target.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="154">
+          <caret line="7" column="19" selection-start-line="7" selection-start-column="19" selection-end-line="7" selection-end-column="19" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/pattern/structural/adapter/classadapter/Adaptee.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="154">
+          <caret line="7" column="34" lean-forward="true" selection-start-line="7" selection-start-column="34" selection-end-line="7" selection-end-column="34" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/pattern/structural/adapter/classadapter/Adapter.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="198">
+          <caret line="9" column="31" selection-start-line="9" selection-start-column="31" selection-end-line="9" selection-end-column="31" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="uml://JAVA/pattern.structural.adapter.classadapter.Adaptee">
+      <provider selected="true" editor-type-id="UmlEditorProvider">
+        <state>
+          <ID>JAVA</ID>
+          <OriginalElement>pattern.structural.adapter.classadapter.Adaptee</OriginalElement>
+          <nodes>
+            <node x="0.0" y="0.0">pattern.structural.adapter.classadapter.Target</node>
+            <node x="169.0" y="0.0">pattern.structural.adapter.classadapter.Adaptee</node>
+            <node x="97.25" y="103.0">pattern.structural.adapter.classadapter.Adapter</node>
+            <node x="0.0" y="201.0">pattern.structural.adapter.classadapter.Test</node>
+          </nodes>
+          <notes />
+          <edges>
+            <edge source="pattern.structural.adapter.classadapter.Adapter" target="pattern.structural.adapter.classadapter.Target">
+              <point x="-37.25" y="-26.5" />
+              <point x="134.5" y="78.0" />
+              <point x="74.5" y="78.0" />
+              <point x="0.0" y="26.5" />
+            </edge>
+            <edge source="pattern.structural.adapter.classadapter.Adapter" target="pattern.structural.adapter.classadapter.Adaptee">
+              <point x="37.25" y="-26.5" />
+              <point x="209.0" y="78.0" />
+              <point x="269.0" y="78.0" />
+              <point x="0.0" y="26.5" />
+            </edge>
+          </edges>
+          <settings layout="Hierarchic Group" zoom="1.0" x="-448.0" y="38.0" />
+          <SelectedNodes />
+          <Categories>
+            <Category>Fields</Category>
+            <Category>Constructors</Category>
+            <Category>Methods</Category>
+            <Category>Properties</Category>
+            <Category>Inner Classes</Category>
+          </Categories>
+          <SCOPE>All</SCOPE>
+          <VISIBILITY>private</VISIBILITY>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/pattern/structural/adapter/classadapter/ConcreteTarget.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="198">
+          <caret line="9" column="47" selection-start-line="9" selection-start-column="47" selection-end-line="9" selection-end-column="47" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/pattern/structural/adapter/classadapter/Test.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="154">
+          <caret line="7" column="44" lean-forward="true" selection-start-line="7" selection-start-column="44" selection-end-line="7" selection-end-column="44" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/pattern/structural/adapter/objectadapter/Adaptee.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="132">
+          <caret line="6" column="13" selection-start-line="6" selection-start-column="13" selection-end-line="6" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/pattern/structural/adapter/objectadapter/Adapter.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="220">
+          <caret line="10" column="33" selection-start-line="10" selection-start-column="33" selection-end-line="10" selection-end-column="33" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/pattern/structural/adapter/objectadapter/ConcreteTarget.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="154">
+          <caret line="7" column="13" selection-start-line="7" selection-start-column="13" selection-end-line="7" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/pattern/structural/adapter/objectadapter/Target.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="132">
+          <caret line="6" column="17" selection-start-line="6" selection-start-column="17" selection-end-line="6" selection-end-column="17" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/pattern/structural/adapter/objectadapter/Test.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="176">
+          <caret line="8" column="44" lean-forward="true" selection-start-line="8" selection-start-column="44" selection-end-line="8" selection-end-column="44" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/pattern/structural/adapter/AC220.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="198">
+          <caret line="9" column="31" selection-start-line="9" selection-start-column="31" selection-end-line="9" selection-end-column="31" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/pattern/structural/adapter/DC5.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="154">
+          <caret line="7" column="19" selection-start-line="7" selection-start-column="19" selection-end-line="7" selection-end-column="19" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/pattern/structural/adapter/Test.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="264">
+          <caret line="12" selection-start-line="12" selection-end-line="12" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/pattern/structural/adapter/PowerAdapter.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="132">
+          <caret line="6" column="27" selection-start-line="6" selection-start-column="27" selection-end-line="6" selection-end-column="27" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/pattern/structural/decorator/v2/Test.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="264">
+          <caret line="12" column="54" selection-start-line="12" selection-start-column="54" selection-end-line="12" selection-end-column="54" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/pattern/creational/singleton/HungrySingleton.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="506">
+          <caret line="25" column="30" selection-start-line="25" selection-start-column="19" selection-end-line="25" selection-end-column="30" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/pattern/creational/singleton/DoubleCheckSingleton.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="418">
+          <caret line="19" column="36" selection-start-line="19" selection-start-column="36" selection-end-line="19" selection-end-column="36" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/pattern/creational/singleton/T.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="176">
+          <caret line="8" column="23" selection-start-line="8" selection-start-column="23" selection-end-line="8" selection-end-column="23" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/pattern/creational/singleton/Test.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="337">
+          <caret line="77" column="40" lean-forward="true" selection-start-line="77" selection-start-column="40" selection-end-line="77" selection-end-column="40" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/README.md">
+      <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
+        <state split_layout="SPLIT">
+          <first_editor relative-caret-position="22">
+            <caret line="1" column="13" lean-forward="true" selection-start-line="1" selection-start-column="13" selection-end-line="1" selection-end-column="13" />
+          </first_editor>
+          <second_editor />
+        </state>
+      </provider>
+    </entry>
+  </component>
+  <component name="masterDetails">
+    <states>
+      <state key="ArtifactsStructureConfigurable.UI">
+        <settings>
+          <artifact-editor />
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="FacetStructureConfigurable.UI">
+        <settings>
+          <last-edited>No facets are configured</last-edited>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="GlobalLibrariesConfigurable.UI">
+        <settings>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="JdkListConfigurable.UI">
+        <settings>
+          <last-edited>1.8</last-edited>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="ModuleStructureConfigurable.UI">
+        <settings>
+          <last-edited>abstractfactory</last-edited>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+                <option value="0.6" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="ProjectJDKs.UI">
+        <settings>
+          <last-edited>1.8</last-edited>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="ProjectLibrariesConfigurable.UI">
+        <settings>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="ScopeChooserConfigurable.UI">
+        <settings>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+    </states>
+  </component>
+</project>
